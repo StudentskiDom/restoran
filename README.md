@@ -1,12 +1,12 @@
 # Restoran
-## Aplikacija "Restoran"<br /> 
+### Aplikacija "Restoran"<br /> 
 Informacioni sistem za vođenje restorana baziran na 5 modula:<br />
          **1. Modul za vlasnika<br />
           2. Modul za konobara<br />
           3. Modul za kuhinju<br />
           4. Modul za nabavku<br />
           5. Modul za šefa kuhinje<br />**
-### Osnovni procesi/funkcionalnosti:
+## Osnovni procesi/funkcionalnosti:
 -Login sistem (općenito)
 #### Procesi vezani za Modul za vlasnika:
 -Kreiraj zaposlenika<br />
@@ -25,7 +25,7 @@ Informacioni sistem za vođenje restorana baziran na 5 modula:<br />
 -Uvid u stanje (koliko čega ima)
 #### Procesi vezani za Modul za šefa kuhinje:
 -Kreiranje Menija (dnevni meni, dodaj novo jelo, briši jelo, izmijeni, itd.)<br />
-### Akteri: 
+## Akteri: 
 vlasnik, konobar, šef kuhinje, kuhar, radnik u nabavi.<br />
 
 ## Tim: 
