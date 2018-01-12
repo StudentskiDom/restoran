@@ -1,11 +1,11 @@
 # Restoran
 ## Aplikacija "Restoran"<br /> 
 Informacioni sistem za vođenje restorana baziran na 5 modula:<br />
-          1. Modul za vlasnika<br />
+         **1. Modul za vlasnika<br />
           2. Modul za konobara<br />
           3. Modul za kuhinju<br />
           4. Modul za nabavku<br />
-          5. Modul za šefa kuhinje<br />
+          5. Modul za šefa kuhinje<br />**
 ### Osnovni procesi/funkcionalnosti:
 -Login sistem (općenito)
 #### Procesi vezani za Modul za vlasnika:
