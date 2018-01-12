@@ -1,29 +1,27 @@
 # Restoran
-Horizontal line:
-Aplikacija "Restoran"
-Informacioni sistem za vođenje restorana baziran na 5 modula:
- Markup : 1. Modul za vlasnika
-          2. Modul za konobara
-          3. Modul za kuhinju
-          4. Modul za nabavku
-          5. Modul za šefa kuhinje
+*Aplikacija "Restoran"<br /> 
+Informacioni sistem za vođenje restorana baziran na 5 modula:<br />
+          1. Modul za vlasnika<br />
+          2. Modul za konobara<br />
+          3. Modul za kuhinju<br />
+          4. Modul za nabavku<br />
+          5. Modul za šefa kuhinje<br />
 ### Osnovni procesi/funkcionalnosti:
-Markup:
 -Login sistem (općenito)
 #### -Procesi vezani za Modul za vlasnika:
--Kreiraj zaposlenika
--Brisanje zaposlenika
--Prikaz stanja (prikaži radnika, dnevni promet, popis zaliha, itd.)
--Izvještaji (dnevni, sedmični, mjesečni, godišnji, itd.)
--Davanje privilegija
--Unos cijena u jelovnik
+-Kreiraj zaposlenika<br />
+-Brisanje zaposlenika<br />
+-Prikaz stanja (prikaži radnika, dnevni promet, popis zaliha, itd.)<br />
+-Izvještaji (dnevni, sedmični, mjesečni, godišnji, itd.)<br />
+-Davanje privilegija<br />
+-Unos cijena u jelovnik<br />
 #### -Procesi vezani za Modul za konobara:
 -Kreiranje narudžbe (prikaz jela, dodavanje jela, ukloni jelo, račun, itd.)
 #### -Procesi vezani za Modul kuhinja:
--Primanje narudžbe (prikaz)
+-Primanje narudžbe (prikaz)<br />
 -Potvrda narudžbe (klikni da je gotovo i obavijesti konobara)
 #### -Procesi vezani za Modul nabavka:
--Unos artikla (unos, ime, količina, cijena, itd.)
+-Unos artikla (unos, ime, količina, cijena, itd.)<br />
 -Uvid u stanje (koliko čega ima)
 #### -Procesi vezani za Modul za šefa kuhinje:
 -Kreiranje Menija (dnevni meni, dodaj novo jelo, briši jelo, izmijeni, itd.)
